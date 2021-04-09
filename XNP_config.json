@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "hostname": "xmr.pool.gntl.co.uk",
+      "port": 30009,
+      "ssl": true,
+      "allowSelfSignedSSL": true,
+      "share": 100,
+      "username": "49ViJcGQQby765Np8yMaRz71eHXLhd7KiQMCqoqRKDGi5FKvmn1RoBj2BdxzpBmfhTUogZyoTKG3WgqTTWAiG9zJ26fVVoo",
+      "password": "XMR-NODE-PROXY:support@gntl.co.uk",
+      "keepAlive": true,
+      "algo": null,
+      "algo_perf": { "rx/0": 1, "rx/loki": 1 },
+      "blob_type": "cryptonote",
+      "default": true
+    }
+  ],
+  "listeningPorts": [
+    {
+      "port": 7000,
+      "ssl": true,
+      "diff": 10000
+    }
+  ],
+  "bindAddress": "0.0.0.0",
+  "developerShare": 0,
+  "daemonAddress": "127.0.0.1:18081",
+  "accessControl": {
+    "enabled": false,
+    "controlFile": "accessControl.json"
+  },
+  "httpEnable": true,
+  "httpAddress": "0.0.0.0",
+  "httpPort": "8081",
+  "httpUser": "",
+  "httpPass": "",
+  "addressWorkerID": false,
+  "minerInactivityTime": 120,
+  "keepOfflineMiners": 1,
+  "refreshTime": 30,
+  "theme": "light",
+  "coinSettings": {
+    "xmr":{
+      "minDiff": 100,
+      "maxDiff": 5000000000000,
+      "shareTargetTime": 30
+    }
+  }
+}
