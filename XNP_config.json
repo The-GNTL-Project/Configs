@@ -1,13 +1,13 @@
 {
   "pools": [
     {
-      "hostname": "xmr.pool.gntl.co.uk",
-      "port": 30009,
+      "hostname": "POOL_URL",
+      "port": POOL_PORT,
       "ssl": true,
       "allowSelfSignedSSL": true,
       "share": 100,
-      "username": "49ViJcGQQby765Np8yMaRz71eHXLhd7KiQMCqoqRKDGi5FKvmn1RoBj2BdxzpBmfhTUogZyoTKG3WgqTTWAiG9zJ26fVVoo",
-      "password": "XMR-NODE-PROXY:support@gntl.co.uk",
+      "username": "YOUR_WALLET_ADDRESS",
+      "password": "YOUR_PROXY_WORKER_NAME:YOUR_EMAIL_ADDRESS or just PROXY_WORKER_NAME",
       "keepAlive": true,
       "algo": null,
       "algo_perf": { "rx/0": 1, "rx/loki": 1 },
