@@ -34,7 +34,7 @@
             "coin": null,
             "url": "COIN.pool.gntl.co.uk:100nn",
             "user": "WALLET_ADDRESS",
-            "pass": "WORKER_ID:EMAIL_ADDRESS or just WORKER_ID"",
+            "pass": "WORKER_ID:EMAIL_ADDRESS or just WORKER_ID",
             "rig-id": null,
             "keepalive": true,
             "enabled": true,
