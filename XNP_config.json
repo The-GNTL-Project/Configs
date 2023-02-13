@@ -1,8 +1,8 @@
 {
   "pools": [
     {
-      "hostname": "POOL_URL",
-      "port": POOL_PORT,
+      "hostname": "COIN.gntl.uk",
+      "port": 100nn,
       "ssl": true,
       "allowSelfSignedSSL": true,
       "share": 100,
