@@ -1,3 +1,19 @@
+/*
+Change this section for your needs:
+
+      "hostname": "COIN.gntl.uk",
+      "port": 100nn,
+      "username": "YOUR_WALLET_ADDRESS",
+      "password": "YOUR_PROXY_WORKER_NAME:YOUR_EMAIL_ADDRESS or just PROXY_WORKER_NAME",
+
+e.g.:
+
+      "hostname": "pool.gntl.uk",
+      "port": 10007,
+      "username": "gnt1ibrAtYtThQWQ8QdeLPWGD9ZeqnDsJ9A4d86DMC2RD7frBSE1uZmFezsbW7TXHdNHYWDWsccRo8TpE55p2HWR74ofajRWc5",
+      "password": "XMR-Node-Proxy",
+*/
+
 {
   "pools": [
     {
