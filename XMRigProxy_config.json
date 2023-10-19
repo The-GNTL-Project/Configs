@@ -3,7 +3,7 @@ Change this section for your needs:
 
             "url": "COIN.gntl.uk:100nn",
             "user": "WALLET_ADDRESS",
-            "pass": "WORKER_ID:EMAIL_ADDRESS or just WORKER_ID",
+            "pass": "WORKER_ID",
 
 e.g.:
 
