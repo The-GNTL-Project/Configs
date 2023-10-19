@@ -4,7 +4,7 @@ Change this section for your needs:
       "hostname": "COIN.gntl.uk",
       "port": 100nn,
       "username": "YOUR_WALLET_ADDRESS",
-      "password": "YOUR_PROXY_WORKER_NAME:YOUR_EMAIL_ADDRESS or just PROXY_WORKER_NAME",
+      "password": "PROXY_WORKER_NAME",
 
 e.g.:
 
