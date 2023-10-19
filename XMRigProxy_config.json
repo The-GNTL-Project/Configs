@@ -3,13 +3,13 @@ Change this section for your needs:
 
             "url": "COIN.gntl.uk:100nn",
             "user": "WALLET_ADDRESS",
-            "pass": "WORKER_ID",
+            "pass": "PROXY_WORKER_ID:EMAIL_ADDRESS or just PROXY_WORKER_ID",
 
 e.g.:
 
             "url": "pool.gntl.uk:20007",
             "user": "gnt1ibrAtYtThQWQ8QdeLPWGD9ZeqnDsJ9A4d86DMC2RD7frBSE1uZmFezsbW7TXHdNHYWDWsccRo8TpE55p2HWR74ofajRWc5",
-            "pass": "XMRig-Proxy",
+            "pass": "XMRig-Proxy:email.com",
 */
 
 {
